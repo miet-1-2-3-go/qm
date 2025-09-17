@@ -1,5 +1,6 @@
 ## Particle Physics
 
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bosons-Hadrons-Fermions-RGB.svg/600px-Bosons-Hadrons-Fermions-RGB.svg.png)
 
 ### 1.1 Fermions vs. Bosons
 
