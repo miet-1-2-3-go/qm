@@ -312,80 +312,128 @@ Understanding proton structure: **High-energy experiments, such as the SeaQuest 
 ---
 
 ### Tetraquarks
-A tetraquark is an exotic meson, a subatomic particle composed of four valence quarks. A valence quark is a fundamental particle that defines the quantum numbers of a hadron, such as a proton or neutron. Composition: A tetraquark contains two quarks and two antiquarks (\(q\={q}q\={q}\)). Since it has an even number of quarks, it is classified as a meson.Structure: Scientists are investigating whether tetraquarks are a compact system of four tightly bound quarks or a "hadronic molecule" consisting of two two-quark mesons that are loosely bound together.Discovery: While predicted by the theory of the strong nuclear force (Quantum Chromodynamics or QCD), the first tetraquark candidates were not confirmed until the 21st century by experiments at facilities like the LHC. 
+A tetraquark is an **exotic meson**, **a subatomic particle composed of four valence quarks.** A **valence quark is a fundamental particle that defines the quantum numbers of a hadron, such as a proton or neutron.** 
+**Composition:** A tetraquark contains **two quarks and two antiquarks** (\(q\={q}q\={q}\)). Since it has an **even number of quarks**, it is **classified as a meson.**
+**Structure:** Scientists are investigating whether tetraquarks are a **1) compact system of four tightly bound quarks** or a **2)"hadronic molecule" consisting of two two-quark mesons that are loosely bound together.**
+Discovery: While predicted by the theory of the strong nuclear force (Quantum Chromodynamics or QCD), the first tetraquark candidates were not confirmed until the **21st century** by experiments at facilities like the LHC. 
 
 ### Pentaquarks
-A pentaquark is an exotic baryon, a subatomic particle made of five valence quarks. Composition: A pentaquark is composed of four quarks and one antiquark (\(qqqq\={q}\)). Since it has an odd number of quarks, it is classified as a baryon, similar to a proton or neutron.Structure: Like tetraquarks, physicists are exploring whether pentaquarks are a compact five-quark state or a "hadronic molecule" consisting of a three-quark baryon and a two-quark meson.Discovery: After decades of failed searches, the first confirmed pentaquarks were discovered by the LHCb collaboration at CERN in 2015. 
+A pentaquark is an **exotic baryon**, **a subatomic particle made of five valence quarks.** 
+Composition: A pentaquark is composed of **four quarks and one antiquark** (\(qqqq\={q}\)). Since it has an **odd number of quarks,** it is **classified as a baryon, similar to a proton or neutron.**
+Structure: Like tetraquarks, **physicists are exploring whether pentaquarks are a 1) compact five-quark state or a 2) "hadronic molecule" consisting of a three-quark baryon and a two-quark meson.**
+Discovery: After decades of failed searches, the **first confirmed pentaquarks were discovered by the LHCb collaboration at CERN in 2015.** 
 
 ### Gravitons
-
-The graviton is a hypothetical elementary particle that is theorized to be the force carrier for gravity, in the same way that the photon is the force carrier for the electromagnetic force. A consistent quantum theory of gravity has not yet been developed, so the graviton's existence remains unproven. 
+The graviton is a **hypothetical elementary particle that is theorized to be the force carrier for gravity,** in the same way that the photon is the force carrier for the electromagnetic force. A consistent quantum theory of gravity has not yet been developed, so the graviton's existence remains unproven. 
 Definition:
-A graviton is a theoretical massless, electrically neutral elementary particle.
-It is a boson with a spin of 2, unlike the photon, which has a spin of 1. A spin of 2 is required because the source of gravity in general relativity is the stress-energy tensor, a second-order tensor.
-The search for gravitons is an attempt to unify general relativity (the theory of gravity for large objects) with quantum mechanics (the theory of small particles). 
+A graviton is a **theoretical massless, electrically neutral elementary particle.**
+It is a **boson with a spin of 2,** unlike the photon, which has a spin of 1. A spin of 2 is required because the **source of gravity in general relativity is the stress-energy tensor, a second-order tensor.**
+The **search for gravitons is an attempt to unify general relativity (the theory of gravity for large objects) with quantum mechanics (the theory of small particles).** 
 
 Example:
 A pair of interacting electrons in a particle accelerator would exchange virtual photons to mediate the electromagnetic force. In a unified quantum theory of gravity, two massive objects, such as planets, would interact by exchanging virtual gravitons.
-Observations of gravitational waves, like those detected by LIGO, are providing information about the properties of the theorized graviton. For instance, the fact that gravitational waves are observed to travel at the speed of light suggests that the graviton, if it exists, is massless. 
+Observations of gravitational waves, like those detected by LIGO, are providing information about the properties of the theorized graviton. For instance, the fact that **gravitational waves are observed to travel at the speed of light suggests that the graviton, if it exists, is massless.**
 
 ### Gauge Groups
-U(1), SU(2), and SU(3) are Lie groups, a type of mathematical symmetry group used in particle physics. They are the gauge groups of the Standard Model, with each one describing a specific fundamental force through a corresponding symmetry. According to Noether's theorem, for every continuous symmetry of a physical system, there is a corresponding conserved quantity.
+**U(1), SU(2), and SU(3) are Lie groups**, a **type of mathematical symmetry group used in particle physics.** They are the **gauge groups of the Standard Model**, with each one describing a specific **fundamental force through a corresponding symmetry**. **According to Noether's theorem, for every continuous symmetry of a physical system, there is a corresponding conserved quantity.**
 
 **U(1)**
-Definition: The unitary group of degree 1, denoted U(1), is the simplest Lie group. It is the group of all complex numbers with an absolute value of 1. These numbers can be written as \(e^{i\theta }\), where \(\theta \) is a real number.The U(1) group is abelian, meaning the order in which two transformations are applied does not matter (the multiplication is commutative).A physical system with a U(1) symmetry is one whose physical properties do not change under a phase shift of its wavefunction. Example: Electromagnetism: U(1) is the gauge group of quantum electrodynamics (QED), the quantum field theory of the electromagnetic force.Conservation of electric charge: The U(1) symmetry in QED leads to the conservation of electric charge. Changing the phase of an electron's wavefunction does not alter its measurable properties, and this symmetry results in the conservation of charge.Photon: The gauge boson (force-carrying particle) associated with the U(1) symmetry is the photon. 
+Definition: The **unitary group of degree 1, denoted U(1), is the simplest Lie group.** It is the **group of all complex numbers with an absolute value of 1.** These numbers can be written as \(e^{i\theta }\), where \(\theta \) is a real number.The **U(1) group is abelian, meaning the order in which two transformations are applied does not matter (the multiplication is commutative).**
+A **physical system with a U(1) symmetry is one whose physical properties do not change under a phase shift of its wavefunction.** 
+Example: 
+**Electromagnetism:** U(1) is the **gauge group of quantum electrodynamics (QED), the quantum field theory of the electromagnetic force.**
+**Conservation of electric charge:** The **U(1) symmetry in QED leads to the conservation of electric charge. Changing the phase of an electron's wavefunction does not alter its measurable properties, and this symmetry results in the conservation of charge.**
+**Photon:** The **gauge boson (force-carrying particle) associated with the U(1) symmetry is the photon.** 
 
 **SU(2)**
 Definition:
-The special unitary group of degree 2, denoted SU(2), is the group of all 2x2 unitary matrices with a determinant of 1.
-Unlike U(1), SU(2) is a non-abelian group, which means the order of operations matters (the multiplication is non-commutative).
-It has three independent degrees of freedom, which correspond to the three gauge bosons of the weak interaction. 
+The **special unitary group of degree 2, denoted SU(2), is the group of all 2x2 unitary matrices with a determinant of 1.**
+Unlike U(1), **SU(2) is a non-abelian group, which means the order of operations matters (the multiplication is non-commutative).**
+It **has three independent degrees of freedom, which correspond to the three gauge bosons of the weak interaction.**
 Example:
-Weak Nuclear Force: SU(2) is the gauge group of the weak interaction. It describes how particles with a specific property called "weak isospin" transform into one another.
-Beta decay: During a type of radioactive decay known as beta decay, an up quark in a proton changes into a down quark, converting the proton into a neutron. This transformation is mediated by a W boson and is an example of an SU(2) symmetry operation.
-W and Z bosons: The three gauge bosons associated with the SU(2) symmetry are the W+, W-, and Z bosons. 
+**Weak Nuclear Force:** **SU(2) is the gauge group of the weak interaction.** It **describes how particles with a specific property called "weak isospin" transform into one another.**
+**Beta decay:** **During a type of radioactive decay known as beta decay, an up quark in a proton changes into a down quark, converting the proton into a neutron. This transformation is mediated by a W boson and is an example of an SU(2) symmetry operation.**
+**W and Z bosons:** The **three gauge bosons associated with the SU(2) symmetry are the W+, W-, and Z bosons.** 
 
 **SU(3)**
 Definition:
-The special unitary group of degree 3, denoted SU(3), is the group of all 3x3 unitary matrices with a determinant of 1.
-Like SU(2), it is a non-abelian group. It has eight independent degrees of freedom.
-This group is fundamental to the theory of the strong nuclear force, where it describes the transformations between the "color" charges of quarks. 
+The **special unitary group of degree 3, denoted SU(3), is the group of all 3x3 unitary matrices with a determinant of 1.**
+Like SU(2), it is a **non-abelian group. It has eight independent degrees of freedom.**
+This **group is fundamental to the theory of the strong nuclear force, where it describes the transformations between the "color" charges of quarks.**
 Example:
-Strong Nuclear Force: SU(3) is the gauge group of quantum chromodynamics (QCD), the theory of the strong interaction. Quarks come in three types of "color" charge—red, green, and blue—and SU(3) describes how these colors can transform into one another.
-Color conservation: The SU(3) symmetry results in the conservation of color charge, ensuring that composite particles like protons and neutrons are "colorless".
-Gluons: The eight gauge bosons associated with the SU(3) symmetry are the gluons. Each gluon carries a color-anticolor combination, allowing it to mediate the strong force between quarks. 
+**Strong Nuclear Force:** **SU(3) is the gauge group of quantum chromodynamics (QCD), the theory of the strong interaction.** Quarks come in **three types** of **"color" charge—red, green, and blue**—and **SU(3) describes how these colors can transform into one another.**
+**Color conservation:** The SU(3) symmetry results in the **conservation of color charge, ensuring that composite particles like protons and neutrons are "colorless".**
+**Gluons:** The **eight gauge bosons associated with the SU(3) symmetry are the gluons. Each gluon carries a color-anticolor combination, allowing it to mediate the strong force between quarks**. 
 
 
 ---
 
 ### Quarkonium, Charmonium, and Bottonium
 
-**Quarkonium**
-Quarkonium is the general term for any flavorless meson consisting of a heavy quark and its own antiquark. Charmonium and bottomonium are the most prominent examples of quarkonium, made of charm (\(c\={c}\)) and bottom (\(b\={b}\)) quarks, respectively. These systems are crucial for studying the strong nuclear force, which binds quarks together. Quarkonium Definition: A meson containing a heavy quark and its corresponding antiquark. Since the quark and antiquark have opposite flavors, the meson is flavorless. The name is an analogy to positronium, a bound state of an electron and a positron.Bound state analogy: Heavy quarkonia systems are similar to the hydrogen atom, but bound by the strong force mediated by gluons rather than the electromagnetic force. The different energy levels and states of quarkonium particles are described by non-relativistic quantum mechanics, an effective theory called non-relativistic Quantum Chromodynamics (NRQCD).Top quarks: The top quark is so massive that it decays via the weak interaction before a bound state can form, so toponium (\(t\={t}\)) has not been observed.Lighter quarks: Quarks lighter than charm (up, down, and strange) have similar masses and move at relativistic speeds, so their bound states cannot be described as simple quarkonia. 
+Quarkonium is the **general term for any flavorless meson** consisting of a **heavy quark and its own antiquark.** **Charmonium and bottomonium are the most prominent examples of quarkonium, made of charm** (\(c\={c}\)) and **bottom** (\(b\={b}\)) **quarks,** respectively. These systems are crucial for studying the strong nuclear force, which binds quarks together. 
+
+**Quarkonium** 
+Definition: A meson containing a heavy quark and its corresponding antiquark. Since the quark and antiquark have opposite flavors, the meson is flavorless. **The name is an analogy to positronium, a bound state of an electron and a positron.**
+Bound state analogy: **Heavy quarkonia systems are similar to the hydrogen atom, but bound by the strong force mediated by gluons rather than the electromagnetic force.** The **different energy levels and states of quarkonium particles are described by non-relativistic quantum mechanics, an effective theory called non-relativistic Quantum Chromodynamics (NRQCD).**
+**Top quarks:** The **top quark is so massive that it decays via the weak interaction before a bound state can form, so toponium (\(t\={t}\)) has not been observed.**
+**Lighter quarks:** **Quarks lighter than charm (up, down, and strange) have similar masses and move at relativistic speeds, so their bound states cannot be described as simple quarkonia.** 
 
 **Charnomium (\(c\={c}\))**
 Constituents: A charmed quark and its antiquark.Discovery: The first charmonium state, the J/\(\psi \) particle, was discovered in 1974. This discovery was a pivotal moment in particle physics, providing early confirmation of the quark model.Mass: The charm quark is significantly heavier than light quarks, but lighter than the bottom quark. The mass of charmonium is approximately 3.1 GeV/\(c^{2}\).Velocity: The quarks in charmonium are estimated to move at a velocity of roughly 0.3 times the speed of light, making them semi-non-relativistic.Properties:Energy levels: Charmonium exhibits a spectrum of energy levels similar to those of an atom.Binding energy: Since the charm quarks are lighter than bottom quarks, charmonium states are more loosely bound than bottomonium states.Dissociation: Loosely bound charmonium states "melt" at lower temperatures in a quark-gluon plasma than more strongly bound states. This is used as a tool to measure the temperature of the medium in heavy-ion collisions.
 
 **Bottomonium (\(b\={b}\))**
 
-Constituents: A bottom (or beauty) quark and its antiquark.Discovery: The first bottomonium state, the \(\Upsilon \) (upsilon) meson, was discovered in 1977.Mass: The bottom quark is heavier than the charm quark, making bottomonium states heavier than charmonium states. The mass of the \(\Upsilon (1S)\) is approximately 9.5 GeV/\(c^{2}\).Velocity: The quarks in bottomonium move at a slower, more non-relativistic velocity of approximately 0.1 times the speed of light.Properties:Binding energy: Due to their greater mass, bottom quarks form more tightly bound states than charm quarks.Dissociation: Because they are more tightly bound, bottomonium states melt at higher temperatures in a quark-gluon plasma compared to charmonium states.Probe for QGP: Bottomonium states are considered a good probe for studying the hot and dense medium created in heavy-ion collisions. 
+Constituents: A bottom (or beauty) quark and its antiquark.
+Discovery: The **first bottomonium state, the \(\Upsilon \) (upsilon) meson, was discovered in 1977.**
+Mass: The bottom quark is **heavier than the charm quark**, making **bottomonium states heavier than charmonium states.** The mass of the \(\Upsilon (1S)\) is **approximately 9.5 GeV/\(c^{2}\).**
+Velocity: The quarks in bottomonium move at a **slower, more non-relativistic velocity of approximately 0.1 times the speed of light.**
+Properties:Binding energy: Due to their greater mass, bottom quarks **form more tightly bound states than charm quarks.**
+Dissociation: Because they are more tightly bound, **bottomonium states melt at higher temperatures in a quark-gluon plasma compared to charmonium states.**
+Probe for QGP: Bottomonium states are considered a good probe for studying the hot and dense medium created in heavy-ion collisions. 
 
 
 ---
 
 ### Born Rule
-The Born Rule is a foundational principle of quantum mechanics, first formulated by Max Born, that connects a quantum system's mathematical wave function (Ψ) to the actual probabilities of measurement outcomes. It states that the probability of measuring a specific outcome is equal to the absolute value squared of the corresponding part of the wave function, or P = |Ψ|². This rule establishes that quantum mechanics is inherently probabilistic, providing a way to translate the abstract wave function into real-world, measurable probabilities, as demonstrated in experiments and vital for understanding phenomena like superposition and entanglement.  
-Key Aspects of the Born Rule
-Probabilistic Nature: In contrast to classical physics, where a system's state can be known with certainty, quantum mechanics is probabilistic, and the Born Rule quantifies these probabilities. 
-Wave Function: The wave function (Ψ) describes the quantum state of a system, but it is an abstract mathematical construct. 
-Measurement: When a measurement is performed on a quantum system, its wave function "collapses" into a definite state, and the Born Rule tells us the probability of finding a particular result. 
-Experimental Verification: The Born Rule is not just a theoretical concept; it has been experimentally verified through various quantum experiments, providing a framework for predicting measurement outcomes. 
-Example: Finding a Particle
-A common application is determining the probability of finding a particle at a specific position. 
-If the wave function describes the particle's state, the probability density for finding the particle at a given position is proportional to the square of the wave function's amplitude at that position.
-Significance
-Bridge to Reality: The Born Rule bridges the gap between the abstract mathematical description of a quantum system and the concrete, observable outcomes of measurements in the real world. 
+The Born Rule is a **foundational principle of quantum mechanics**, first formulated by **Max Born**, that **connects a quantum system's mathematical wave function (Ψ) to the actual probabilities of measurement outcomes.** It states that the **probability of measuring a specific outcome is equal to the absolute value squared of the corresponding part of the wave function, or P = |Ψ|².** This rule establishes that **quantum mechanics is inherently probabilistic, providing a way to translate the abstract wave function into real-world, measurable probabilities, as demonstrated in experiments and vital for understanding phenomena like superposition and entanglement.**  
+
+**Key Aspects of the Born Rule**
+Probabilistic Nature: In contrast to classical physics, where a system's state can be known with certainty, **quantum mechanics is probabilistic, and the Born Rule quantifies these probabilities.** 
+Wave Function: **The wave function (Ψ) describes the quantum state of a system, but it is an abstract mathematical construct.**
+Measurement: **When a measurement is performed on a quantum system, its wave function "collapses" into a definite state, and the Born Rule tells us the probability of finding a particular result.**
+Experimental Verification: The Born Rule is **not just a theoretical concept; it has been experimentally verified through various quantum experiments, providing a framework for predicting measurement outcomes.** 
+Example: **Finding a Particle**
+A common application is **determining the probability of finding a particle at a specific position.** 
+If the wave function describes the particle's state, **the probability density for finding the particle at a given position is proportional to the square of the wave function's amplitude at that position.**
+**Significance**
+Bridge to Reality: The **Born Rule bridges the gap between the abstract mathematical description of a quantum system and the concrete, observable outcomes of measurements in the real world.** 
 Foundation of Quantum Mechanics: It is a fundamental postulate of quantum mechanics, crucial for understanding and predicting the behavior of quantum systems and their interactions. 
+
+---
+
+**Alpha, beta, and gamma radiation**
+Alpha, beta, and gamma radiation are three forms of ionizing radiation emitted by unstable, radioactive atomic nuclei. They have distinct properties regarding their composition, mass, charge, penetrating power, and biological effects. 
+
+The health risk from these types of radiation depends on whether the source is external (outside the body) or internal (inside the body). 
+Alpha radiation:
+External exposure: Poses little threat externally since the dead layers of skin can block it.
+Internal exposure: Poses a serious health threat if inhaled, swallowed, or absorbed into the bloodstream. Inside the body, it can cause severe damage to sensitive living tissue due to its high ionizing power.
+Beta radiation:
+External exposure: Can cause skin burns, but the particles do not travel far and are less damaging than gamma rays.
+Internal exposure: Most hazardous when ingested, as the particles can cause damage to internal tissues.
+Gamma radiation:
+External exposure: Poses the greatest external hazard because it can penetrate deeply into the body, damaging tissues and DNA throughout.
+Internal exposure: Less of a contamination risk than alpha or beta because most of it will pass straight through the body, but some energy is still absorbed by tissues. 
+Sources and uses
+Alpha radiation:
+Sources: Produced by the radioactive decay of heavy elements like uranium, radium, and polonium. Radon gas is a natural source of alpha particles.
+Uses: Used in smoke detectors, where the alpha particles ionize the air to create a small current. Smoke disrupts the current and sets off the alarm.
+Beta radiation:
+Sources: Emitted by unstable atoms with an excess of neutrons, such as carbon-14, strontium-90, and tritium.
+Uses: Used in medical radiotherapy to treat superficial tumors. It is also used in industrial gauges to measure the thickness of materials like paper.
+Gamma radiation:
+Sources: Released from an excited nucleus following alpha or beta decay to shed excess energy. Medical x-rays are also a type of electromagnetic radiation, though typically with less energy than gamma rays.
+Uses: Used in medicine for sterilization of equipment, cancer treatment (radiotherapy), and medical imaging. 
 
 ### Hilbert Space
 the mathematics of quantum states lives in Hilbert space, which is essentially a vector space (with inner products, orthogonality, linear combinations, etc.). Fermions and bosons just have different transformation properties in that vector space under exchange operations.
