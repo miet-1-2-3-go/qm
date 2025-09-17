@@ -104,7 +104,11 @@ Though gluons do not directly bind protons and neutrons together, the strong for
 In the Standard Model of particle physics, the strong nuclear force that binds quarks together is modeled as thin flux tubes. 
 Color confinement: The flux tube model provides an explanation for why individual quarks are never observed in experiments. As quarks are pulled apart, the energy stored in the flux tube increases. When enough energy is stored, it becomes favorable to create a new quark-antiquark pair, rather than to break the tube. This results in the formation of new particles instead of isolating the original quark. 
 
-The process of color confinement The stretching flux tube: When two quarks inside a hadron are pulled apart, the gluon field between them stretches into a flux tube. Unlike other forces that weaken with distance, the strong force mediated by this flux tube actually gets stronger.Energy increase: The energy stored in the flux tube increases linearly with distance. This is similar to stretching a rubber band.The "snap": At a certain point, the stored energy in the flux tube becomes so large that it is energetically cheaper to create new particles from that energy, according to Einstein's mass-energy equivalence (\(E=mc^{2}\)).Creation of new quark-antiquark pair: The flux tube "snaps," and a new quark and its corresponding antiquark are pulled out of the vacuum of space. The new quark combines with one of the original quarks, and the new antiquark combines with the other original quark.Formation of new hadrons: The newly formed particles quickly bind together to form color-neutral hadrons, such as mesons (quark-antiquark pairs). This effectively neutralizes the color charge and resolves the high-energy state of the stretched flux tube, preventing any free quarks from escaping. Why new gluons are not formed Gluons carry color charge: Unlike the photon of the electromagnetic force, gluons carry color charge and interact with other gluons. This self-interaction is the reason the flux tube forms in the first place.Gluon confinement: Because gluons are not color-neutral, they cannot exist freely outside of a hadron, a concept also known as color confinement. Attempting to isolate a gluon would be subject to the same processes as trying to isolate a quark. The color force would confine any new gluons.Pair production is the only viable release: As the flux tube is stretched, the energy must be released in a way that produces color-neutral particles. A quark-antiquark pair can combine to be color-neutral, making their creation the preferred outcome for dissipating the flux tube's energy. While exotic particles made solely of gluons, called "glueballs," are theorized, they are also color-neutral and would be formed within this same framework. However, the most common and lowest-energy process is the creation of a new quark-antiquark pair. 
+The process of color confinement 
+The stretching flux tube: When two quarks inside a hadron are pulled apart, the gluon field between them stretches into a flux tube. Unlike other forces that weaken with distance, the strong force mediated by this flux tube actually gets stronger.
+Energy increase: The energy stored in the flux tube increases linearly with distance. This is similar to stretching a rubber band.The "snap": At a certain point, the stored energy in the flux tube becomes so large that it is energetically cheaper to create new particles from that energy, according to Einstein's mass-energy equivalence (\(E=mc^{2}\)).Creation of new quark-antiquark pair: The flux tube "snaps," and a new quark and its corresponding antiquark are pulled out of the vacuum of space. The new quark combines with one of the original quarks, and the new antiquark combines with the other original quark.Formation of new hadrons: The newly formed particles quickly bind together to form color-neutral hadrons, such as mesons (quark-antiquark pairs). This effectively neutralizes the color charge and resolves the high-energy state of the stretched flux tube, preventing any free quarks from escaping. Why new gluons are not formed Gluons carry color charge: Unlike the photon of the electromagnetic force, gluons carry color charge and interact with other gluons. This self-interaction is the reason the flux tube forms in the first place.
+Gluon confinement: Because gluons are not color-neutral, they cannot exist freely outside of a hadron, a concept also known as color confinement. Attempting to isolate a gluon would be subject to the same processes as trying to isolate a quark. The color force would confine any new gluons.
+Pair production is the only viable release: As the flux tube is stretched, the energy must be released in a way that produces color-neutral particles. A quark-antiquark pair can combine to be color-neutral, making their creation the preferred outcome for dissipating the flux tube's energy. While exotic particles made solely of gluons, called "glueballs," are theorized, they are also color-neutral and would be formed within this same framework. However, the most common and lowest-energy process is the creation of a new quark-antiquark pair. 
 
 
  --- 
@@ -155,37 +159,40 @@ BECs are extremely cold; in fact, they are a state of matter that exists near ab
 
 Macroscopic quantum coherence: When a large number of bosons are cooled to a low enough temperature, their individual quantum wavefunctions overlap and merge into a single macroscopic state. This collective, coherent behavior is a natural outcome of the rules of quantum mechanics. 
 
+### W and Z Bosons
+W+, W-, and Z⁰ (or Z0) bosons are the **force carriers for the weak nuclear force.** 
+**W bosons (W+ and W-) mediate charged-current weak interactions, changing the type of quarks and leptons and altering electric charge.**
+The **Z⁰ boson mediates neutral-current weak interactions, which do not change the electric charge of the interacting particles but transfer momentum and energy, like in neutrino scattering.** 
 
-W+, W-, and Z⁰ (or Z0) bosons are the force carriers for the weak nuclear force. W bosons (W+ and W-) mediate charged-current weak interactions, changing the type of quarks and leptons and altering electric charge. The Z⁰ boson mediates neutral-current weak interactions, which do not change the electric charge of the interacting particles but transfer momentum and energy, like in neutrino scattering.  
+**Mediator: W+ and W- bosons.**
+**Charge Transfer:** W bosons transfer **electric charge, altering the charge of the participating particles.**
+**Flavor Change:** They are the only interactions that can change the flavor of quarks or leptons (e.g., a down quark changing into an up quark). 
+**Examples:**
+**Beta decay:** A **neutron transforms into a proton, emitting an electron and an electron antineutrino.**
+**Neutrino interactions:** A **neutrino can be absorbed by a charged particle, creating a charged lepton of the same flavor.** 
 
-Mediator: W+ and W- bosons. 
-Charge Transfer: W bosons transfer electric charge, altering the charge of the participating particles. 
-Flavor Change: They are the only interactions that can change the flavor of quarks or leptons (e.g., a down quark changing into an up quark). 
-Examples:
-Beta decay: A neutron transforms into a proton, emitting an electron and an electron antineutrino. 
-Neutrino interactions: A neutrino can be absorbed by a charged particle, creating a charged lepton of the same flavor. 
+**Z⁰ Boson**
+**Neutral-Current Interactions:** The **Z⁰ boson is electrically neutral and does not change the electric charge of the interacting particles.**
+**Momentum Transfer:** It **mediates weak interactions where particles exchange momentum, spin, and energy without changing their type.**
+**Example:** A classic example is the scattering of a neutrino off an electron, a "neutral current interaction". 
 
+**Gauge and scalar particles are distinct concepts:** 
+a **gauge particle** is a **force-carrying boson (like the photon)** associated with a specific gauge symmetry, while a **scalar particle (like the Higgs boson)** is an **excitation of a scalar field and possesses zero spin,** making it fundamentally different from the **spin-1 gauge bosons** of the fundamental forces. Scalar fields also have intrinsic properties that differ from gauge fields, and scalar particles are not typically considered force carriers in the same way gauge particles are. 
+**Gauge Particles (Gauge Bosons)**
+**Role:** Gauge particles are fundamental force-mediating particles. 
+**Associated Field:** They are **excitations of "gauge fields" which possess a gauge symmetry.** 
+**Spin:** Gauge particles are **typically vector bosons with spin 1,** such as **photons (electromagnetism) and gluons (strong force).** The **hypothesized graviton** is also a gauge boson, but it would be a **spin-2 tensor boson.** 
+**Examples:** **Photon, gluons, and the W and Z bosons** are examples of gauge particles. 
 
-Z⁰ Boson
-Neutral-Current Interactions: The Z⁰ boson is electrically neutral and does not change the electric charge of the interacting particles. 
-Momentum Transfer: It mediates weak interactions where particles exchange momentum, spin, and energy without changing their type. 
-Example: A classic example is the scattering of a neutrino off an electron, a "neutral current interaction". 
-
-Gauge and scalar particles are distinct concepts: a gauge particle is a force-carrying boson (like the photon) associated with a specific gauge symmetry, while a scalar particle (like the Higgs boson) is an excitation of a scalar field and possesses zero spin, making it fundamentally different from the spin-1 gauge bosons of the fundamental forces. Scalar fields also have intrinsic properties that differ from gauge fields, and scalar particles are not typically considered force carriers in the same way gauge particles are. 
-Gauge Particles (Gauge Bosons)
-Role: Gauge particles are fundamental force-mediating particles. 
-Associated Field: They are excitations of "gauge fields" which possess a gauge symmetry. 
-Spin: Gauge particles are typically vector bosons with spin 1, such as photons (electromagnetism) and gluons (strong force). The hypothesized graviton is also a gauge boson, but it would be a spin-2 tensor boson. 
-Examples: Photon, gluons, and the W and Z bosons are examples of gauge particles. 
-Scalar Particles
-Role: Scalar particles are excitations of scalar fields, and the most well-known example is the Higgs boson. 
-Spin: Scalar particles have zero spin. 
-Nature: They are not force-carrying in the same way that gauge bosons are. 
-Examples: The Higgs boson is the fundamental scalar particle known in physics. 
-Key Differences
-Spin: The most fundamental difference is spin: gauge bosons typically have spin 1 (or 2 for gravity), while scalar particles have spin 0. 
-Function: Gauge bosons are the primary mediators of fundamental forces, while scalar particles like the Higgs boson are responsible for giving mass to other particles. 
-Field Type: Gauge particles are excitations of gauge fields, whereas scalar particles are excitations of scalar fields. 
+**Scalar Particles**
+**Role:** Scalar particles are **excitations of scalar fields**, and the most well-known example is the **Higgs boson.** 
+**Spin:** Scalar particles have **zero spin.** 
+**Nature:** They are **not force-carrying in the same way that gauge bosons are.**
+**Examples:** The Higgs boson is the **fundamental scalar particle known in physics.** 
+**Key Differences**
+**Spin:** The most fundamental difference is spin: **gauge bosons typically have spin 1 (or 2 for gravity)**, while **scalar particles have spin 0.** 
+**Function:** **Gauge bosons are the primary mediators of fundamental forces,** while **scalar particles like the Higgs boson are responsible for giving mass to other particles.** 
+**Field Type:** **Gauge particles are excitations of gauge fields**, whereas **scalar particles are excitations of scalar fields.**
 
 
 ---
@@ -241,7 +248,7 @@ Hadrons are composite subatomic particles **made of two or more quarks held toge
 **Types of hadrons**
 Hadrons are divided into two main categories based on their quark composition. 
 
-**Baryons Composition:** Composed of three quarks or three antiquarks. This gives them an odd half-integer spin (like \(\frac{1}{2}\) or \(\frac{3}{2}\)) and classifies them as fermions.
+**Baryons Composition:** **Composed of three quarks or three antiquarks.** This gives them an odd half-integer spin (like \(\frac{1}{2}\) or \(\frac{3}{2}\)) and classifies them as fermions.
 **Key properties:** Baryons have a baryon number of **+1,** while their antimatter counterparts, antibaryons, have a baryon number of **-1.**
 **Examples:** **Protons and neutrons** are the most common examples. **Exotic baryons called pentaquarks, composed of five quarks, have also been discovered.**
 
@@ -249,31 +256,138 @@ Hadrons are divided into two main categories based on their quark composition.
 
 **Mesons Composition:** **Composed of a quark and an antiquark. This gives them an integer spin (0 or 1)** and classifies them as bosons.
 **Key properties:** Mesons have a **baryon number of 0.** Unlike protons, **all mesons are unstable and decay quickly.**
-**Examples:** Pions and kaons are common examples produced in **high-energy physics experiments.** **Exotic mesons like tetraquarks, made of four quarks,** are also being investigated.
+**Examples: Pions and kaons are common examples produced in high-energy physics experiments.** **Exotic mesons like tetraquarks, made of four quarks,** are also being investigated.
+
+**B mesons** are a **class of heavy, unstable subatomic particles composed of a bottom antiquark (\(\={b}\)) bound with a lighter quark.** Their unique properties make them valuable tools for studying the fundamental laws of physics, especially the weak force and the **Cabibbo-Kobayashi-Maskawa (CKM) matrix.**
+
+Composition and types B mesons are a type of meson, a composite particle made of a quark and an antiquark. The specific composition determines the type of B meson: 
+**Charged B meson** (\(B^{+}\)): Composed of an up quark (\(u\)) and a bottom antiquark (\(\={b}\)). Its antiparticle, the \(B^{-}\), consists of an anti-up quark (\(\={u}\)) and a bottom quark (\(b\)).Neutral B meson (\(B^{0}\)): Composed of a down quark (\(d\)) and a bottom antiquark (\(\={b}\)). Its antiparticle is \(\={B}^{0}\) (\(b\={d}\)).
+**Strange B meson** (\(B_{s}^{0}\)): Consists of a strange quark (\(s\)) and a bottom antiquark (\(\={b}\)). Its antiparticle is \(\={B}_{s}^{0}\) (\(b\={s}\)).
+**Charmed B meson** (\(B_{c}^{+}\)): Contains a charm quark (\(c\)) and a bottom antiquark (\(\={b}\)). Its antiparticle is $B_c^-$ (\(b\={c}\)). A combination of a bottom antiquark and a bottom quark forms bottomonium (\(\Upsilon \)), not a B meson. 
 
 **Properties of hadrons** 
 **Strong force interaction:** 
-**Hadrons are defined by their ability to interact via the strong nuclear force, which holds their constituent quarks and gluons together.** This force is also responsible for binding protons and neutrons within an atomic nucleus.Zero net color charge: Although quarks possess a property known as "color charge," all hadrons are "colorless" (or white) in total. The specific combinations of quarks (three quarks of different colors for a baryon, or a quark-antiquark pair of corresponding colors for a meson) must neutralize the overall color charge.Mass composition: Surprisingly, the mass of a hadron comes primarily from the energy of the gluons that bind the quarks together, not from the mass of the quarks themselves. For instance, the mass of a proton is hundreds of times greater than the combined mass of its constituent quarks.Stability: Most hadrons are unstable and decay into other particles after a short time. The major exception is the free proton, which is considered stable. Neutrons are stable only when bound inside an atomic nucleus; a free neutron decays in about 15 minutes. 
+**Hadrons are defined by their ability to interact via the strong nuclear force, which holds their constituent quarks and gluons together.** This force is also responsible for binding protons and neutrons within an atomic nucleus.
+**Zero net color charge:** Although quarks possess a property known as "color charge," **all hadrons are "colorless" (or white) in total.** The specific combinations of quarks **(three quarks of different colors for a baryon, or a quark-antiquark pair of corresponding colors for a meson)** must neutralize the overall color charge.
+**Mass composition:** Surprisingly, the **mass of a hadron comes primarily from the energy of the gluons that bind the quarks together, not from the mass of the quarks themselves.** For instance, the **mass of a proton is hundreds of times greater than the combined mass of its constituent quarks.** (most of a proton's mass comes from the energy binding its constituent particles together, not from the mass of the particles themselves.)
 
-Pion Definition: A pion (or pi meson) is a subatomic particle belonging to the meson family. It is composed of a quark and an antiquark held together by the strong nuclear force. Pions are the lightest of all mesons and play a crucial role in the atomic nucleus. Key facts: Three types: There are three types of pions: a positively charged pion (\(\pi ^{+}\)), a negatively charged pion ($\pi^-\(),andaneutralpion(\)\pi^0$).Mediate the strong force: The exchange of pions between protons and neutrons is the primary mechanism of the residual strong nuclear force, which binds the nucleus together and counteracts the electromagnetic repulsion between protons.Decay: Charged pions typically decay into a muon and a muon neutrino. Neutral pions decay much faster (electromagnetically) into two photons.Production: Pions are produced in high-energy collisions, including those involving cosmic rays hitting the Earth's atmosphere. Kaon Definition: A kaon (or K meson) is a meson that contains a strange quark or antiquark. Because of this constituent quark, kaons are considered "strange" particles. Key facts: Four types: There are four types of kaons, including charged (\(K^{+}\), $K^-$) and neutral (\(K^{0}\), \(\={K^{0}}\)) varieties, with the neutral kaons exhibiting more complex behavior.Strangeness: Kaons carry a quantum number called "strangeness," which is a property of the strange quark. While they are produced via the strong interaction, their decay is governed by the weak interaction, where strangeness is not conserved.CP violation: The discovery of kaons was critical for establishing the Standard Model of particle physics. Studies of neutral kaon decays led to the discovery of CP violation, a subtle asymmetry between matter and antimatter that is essential to explaining why the universe contains more matter than antimatter.Production and decay: Kaons are produced in high-energy interactions. Charged kaons can decay into muons, neutrinos, or pions. Neutral kaons (both K-short and K-long varieties) decay mainly into pions. 
+**Stability:** **Most hadrons are unstable and decay into other particles after a short time.** The **major exception is the free proton, which is considered stable.** **Neutrons are stable only when bound inside an atomic nucleus; a free neutron decays in about 15 minutes.** 
+
+### Pion
+**Pion Definition:** A pion **(or pi meson)** is a subatomic particle belonging to the **meson family.** It is **composed of a quark and an antiquark held together by the strong nuclear force.** Pions are the **lightest of all mesons** and play a crucial role in the atomic nucleus. 
+**Key facts:** 
+**Three types:** 
+**There are three types of pions:** a **positively charged pion** (\(\pi ^{+}\)), a **negatively charged pion** ($\pi^-\(),and a **neutral pion**(\)\pi^0$).
+**Mediate the strong force:** The **exchange of pions between protons and neutrons** is the **primary mechanism of the residual strong nuclear force, which binds the nucleus together and counteracts the electromagnetic repulsion between protons.**
+**Decay:** **Charged pions typically decay into a muon and a muon neutrino. Neutral pions decay much faster (electromagnetically) into two photons.**
+**Production:** Pions are **produced in high-energy collisions,** including those involving cosmic rays hitting the Earth's atmosphere. 
+
+### Kaon 
+**Definition:** 
+**A kaon (or K meson)** is **a meson** that **contains a strange quark or antiquark.** Because of this constituent quark, **kaons are considered "strange" particles.** 
+**Key facts:** 
+**Four types:** There are **four types of kaons,** including **charged** (\(K^{+}\), $K^-$) and **neutral** (\(K^{0}\), \(\={K^{0}}\)) varieties, with the **neutral kaons exhibiting more complex behavior.**
+**Strangeness:** **Kaons carry a quantum number called "strangeness,"** which is a **property of the strange quark.** While they are **produced via the strong interaction, their decay is governed by the weak interaction, where strangeness is not conserved.**
+**CP violation:** The discovery of kaons was critical for establishing the Standard Model of particle physics. **Studies of neutral kaon decays led to the discovery of CP violation, a subtle asymmetry between matter and antimatter that is essential to explaining why the universe contains more matter than antimatter.**
+**Production and decay:** Kaons are **produced in high-energy interactions. Charged kaons can decay into muons, neutrinos, or pions. Neutral kaons (both K-short(short lived kaons) and K-long(long lived kaons) varieties) decay mainly into pions.** 
+
+### Antiquark
+An antiquark is the **antimatter particle corresponding to a quark**, **possessing the same mass and spin but opposite quantum numbers, including electric charge and baryon number.** Antiquarks are **fundamental components of antimatter**, joining **quarks and gluons to form composite particles like antiprotons.** They interact with quarks through the strong force and can combine with quarks to form mesons, such as B mesons, or form antiquark-antiquark pairs.  
+
+**Key Characteristics**
+Antiparticle of a quark: **For every type of quark, there is a corresponding antiquark.** 
+Opposite quantum numbers: **An antiquark has the same mass and spin as its corresponding quark but carries the opposite electric charge and baryon number.** 
+Fundamental particles: 
+### **Antiquarks are considered fundamental particles, meaning they are not made up of smaller components.** 
+Component of antimatter: They are **essential constituents of antimatter particles.**
+
+**How Antiquarks Form**
+Pair creation: **During high-energy events, such as in particle collisions, a quark and an antiquark can be created out of the vacuum, a process known as pair creation.**
+Interaction with the strong force: The strong nuclear force holds particles together, and **when these forces snap, it results in the creation of new quark-antiquark pairs.** 
+**Role in Particle Physics**
+Formation of antimatter particles: **Antiquarks combine with other antiparticles, such as antigluons, to form antimatter composite particles, like antiprotons.**
+Formation of mesons: **A quark and an antiquark can form a bound state(incredibly strong/only allows for color-neutral combinations) called a meson, like the J/ψ meson or B mesons, which are observed in laboratories.**
+Understanding proton structure: **High-energy experiments, such as the SeaQuest experiment at Fermilab, study the distribution of antiquarks within protons to better understand the proton's internal structure.**
 
 ---
 
-### 1.6 Photons
-* Massless, but carry energy & momentum:
-* Energy = hf
-* Momentum = E/c
-* They mediate the electromagnetic force
+### Tetraquarks
+A tetraquark is an exotic meson, a subatomic particle composed of four valence quarks. A valence quark is a fundamental particle that defines the quantum numbers of a hadron, such as a proton or neutron. Composition: A tetraquark contains two quarks and two antiquarks (\(q\={q}q\={q}\)). Since it has an even number of quarks, it is classified as a meson.Structure: Scientists are investigating whether tetraquarks are a compact system of four tightly bound quarks or a "hadronic molecule" consisting of two two-quark mesons that are loosely bound together.Discovery: While predicted by the theory of the strong nuclear force (Quantum Chromodynamics or QCD), the first tetraquark candidates were not confirmed until the 21st century by experiments at facilities like the LHC. 
+
+### Pentaquarks
+A pentaquark is an exotic baryon, a subatomic particle made of five valence quarks. Composition: A pentaquark is composed of four quarks and one antiquark (\(qqqq\={q}\)). Since it has an odd number of quarks, it is classified as a baryon, similar to a proton or neutron.Structure: Like tetraquarks, physicists are exploring whether pentaquarks are a compact five-quark state or a "hadronic molecule" consisting of a three-quark baryon and a two-quark meson.Discovery: After decades of failed searches, the first confirmed pentaquarks were discovered by the LHCb collaboration at CERN in 2015. 
+
+### Gravitons
+
+The graviton is a hypothetical elementary particle that is theorized to be the force carrier for gravity, in the same way that the photon is the force carrier for the electromagnetic force. A consistent quantum theory of gravity has not yet been developed, so the graviton's existence remains unproven. 
+Definition:
+A graviton is a theoretical massless, electrically neutral elementary particle.
+It is a boson with a spin of 2, unlike the photon, which has a spin of 1. A spin of 2 is required because the source of gravity in general relativity is the stress-energy tensor, a second-order tensor.
+The search for gravitons is an attempt to unify general relativity (the theory of gravity for large objects) with quantum mechanics (the theory of small particles). 
+
+Example:
+A pair of interacting electrons in a particle accelerator would exchange virtual photons to mediate the electromagnetic force. In a unified quantum theory of gravity, two massive objects, such as planets, would interact by exchanging virtual gravitons.
+Observations of gravitational waves, like those detected by LIGO, are providing information about the properties of the theorized graviton. For instance, the fact that gravitational waves are observed to travel at the speed of light suggests that the graviton, if it exists, is massless. 
+
+### Gauge Groups
+U(1), SU(2), and SU(3) are Lie groups, a type of mathematical symmetry group used in particle physics. They are the gauge groups of the Standard Model, with each one describing a specific fundamental force through a corresponding symmetry. According to Noether's theorem, for every continuous symmetry of a physical system, there is a corresponding conserved quantity.
+
+**U(1)**
+Definition: The unitary group of degree 1, denoted U(1), is the simplest Lie group. It is the group of all complex numbers with an absolute value of 1. These numbers can be written as \(e^{i\theta }\), where \(\theta \) is a real number.The U(1) group is abelian, meaning the order in which two transformations are applied does not matter (the multiplication is commutative).A physical system with a U(1) symmetry is one whose physical properties do not change under a phase shift of its wavefunction. Example: Electromagnetism: U(1) is the gauge group of quantum electrodynamics (QED), the quantum field theory of the electromagnetic force.Conservation of electric charge: The U(1) symmetry in QED leads to the conservation of electric charge. Changing the phase of an electron's wavefunction does not alter its measurable properties, and this symmetry results in the conservation of charge.Photon: The gauge boson (force-carrying particle) associated with the U(1) symmetry is the photon. 
+
+**SU(2)**
+Definition:
+The special unitary group of degree 2, denoted SU(2), is the group of all 2x2 unitary matrices with a determinant of 1.
+Unlike U(1), SU(2) is a non-abelian group, which means the order of operations matters (the multiplication is non-commutative).
+It has three independent degrees of freedom, which correspond to the three gauge bosons of the weak interaction. 
+Example:
+Weak Nuclear Force: SU(2) is the gauge group of the weak interaction. It describes how particles with a specific property called "weak isospin" transform into one another.
+Beta decay: During a type of radioactive decay known as beta decay, an up quark in a proton changes into a down quark, converting the proton into a neutron. This transformation is mediated by a W boson and is an example of an SU(2) symmetry operation.
+W and Z bosons: The three gauge bosons associated with the SU(2) symmetry are the W+, W-, and Z bosons. 
+
+**SU(3)**
+Definition:
+The special unitary group of degree 3, denoted SU(3), is the group of all 3x3 unitary matrices with a determinant of 1.
+Like SU(2), it is a non-abelian group. It has eight independent degrees of freedom.
+This group is fundamental to the theory of the strong nuclear force, where it describes the transformations between the "color" charges of quarks. 
+Example:
+Strong Nuclear Force: SU(3) is the gauge group of quantum chromodynamics (QCD), the theory of the strong interaction. Quarks come in three types of "color" charge—red, green, and blue—and SU(3) describes how these colors can transform into one another.
+Color conservation: The SU(3) symmetry results in the conservation of color charge, ensuring that composite particles like protons and neutrons are "colorless".
+Gluons: The eight gauge bosons associated with the SU(3) symmetry are the gluons. Each gluon carries a color-anticolor combination, allowing it to mediate the strong force between quarks. 
+
 
 ---
 
-### 1.7 Gauge Groups
-* U(1) → photon (EM)
-* SU(2) → W, Z (weak)
-* SU(3) → gluons (strong)
-* Born Rule: Probabilities of measurement = |Ψ|²
-* Asymptotic Freedom: quarks interact weakly at high energy, but strongly at low energy → confinement
+### Quarkonium, Charmonium, and Bottonium
 
+**Quarkonium**
+Quarkonium is the general term for any flavorless meson consisting of a heavy quark and its own antiquark. Charmonium and bottomonium are the most prominent examples of quarkonium, made of charm (\(c\={c}\)) and bottom (\(b\={b}\)) quarks, respectively. These systems are crucial for studying the strong nuclear force, which binds quarks together. Quarkonium Definition: A meson containing a heavy quark and its corresponding antiquark. Since the quark and antiquark have opposite flavors, the meson is flavorless. The name is an analogy to positronium, a bound state of an electron and a positron.Bound state analogy: Heavy quarkonia systems are similar to the hydrogen atom, but bound by the strong force mediated by gluons rather than the electromagnetic force. The different energy levels and states of quarkonium particles are described by non-relativistic quantum mechanics, an effective theory called non-relativistic Quantum Chromodynamics (NRQCD).Top quarks: The top quark is so massive that it decays via the weak interaction before a bound state can form, so toponium (\(t\={t}\)) has not been observed.Lighter quarks: Quarks lighter than charm (up, down, and strange) have similar masses and move at relativistic speeds, so their bound states cannot be described as simple quarkonia. 
+
+**Charnomium (\(c\={c}\))**
+Constituents: A charmed quark and its antiquark.Discovery: The first charmonium state, the J/\(\psi \) particle, was discovered in 1974. This discovery was a pivotal moment in particle physics, providing early confirmation of the quark model.Mass: The charm quark is significantly heavier than light quarks, but lighter than the bottom quark. The mass of charmonium is approximately 3.1 GeV/\(c^{2}\).Velocity: The quarks in charmonium are estimated to move at a velocity of roughly 0.3 times the speed of light, making them semi-non-relativistic.Properties:Energy levels: Charmonium exhibits a spectrum of energy levels similar to those of an atom.Binding energy: Since the charm quarks are lighter than bottom quarks, charmonium states are more loosely bound than bottomonium states.Dissociation: Loosely bound charmonium states "melt" at lower temperatures in a quark-gluon plasma than more strongly bound states. This is used as a tool to measure the temperature of the medium in heavy-ion collisions.
+
+**Bottomonium (\(b\={b}\))**
+
+Constituents: A bottom (or beauty) quark and its antiquark.Discovery: The first bottomonium state, the \(\Upsilon \) (upsilon) meson, was discovered in 1977.Mass: The bottom quark is heavier than the charm quark, making bottomonium states heavier than charmonium states. The mass of the \(\Upsilon (1S)\) is approximately 9.5 GeV/\(c^{2}\).Velocity: The quarks in bottomonium move at a slower, more non-relativistic velocity of approximately 0.1 times the speed of light.Properties:Binding energy: Due to their greater mass, bottom quarks form more tightly bound states than charm quarks.Dissociation: Because they are more tightly bound, bottomonium states melt at higher temperatures in a quark-gluon plasma compared to charmonium states.Probe for QGP: Bottomonium states are considered a good probe for studying the hot and dense medium created in heavy-ion collisions. 
+
+
+---
+
+### Born Rule
+The Born Rule is a foundational principle of quantum mechanics, first formulated by Max Born, that connects a quantum system's mathematical wave function (Ψ) to the actual probabilities of measurement outcomes. It states that the probability of measuring a specific outcome is equal to the absolute value squared of the corresponding part of the wave function, or P = |Ψ|². This rule establishes that quantum mechanics is inherently probabilistic, providing a way to translate the abstract wave function into real-world, measurable probabilities, as demonstrated in experiments and vital for understanding phenomena like superposition and entanglement.  
+Key Aspects of the Born Rule
+Probabilistic Nature: In contrast to classical physics, where a system's state can be known with certainty, quantum mechanics is probabilistic, and the Born Rule quantifies these probabilities. 
+Wave Function: The wave function (Ψ) describes the quantum state of a system, but it is an abstract mathematical construct. 
+Measurement: When a measurement is performed on a quantum system, its wave function "collapses" into a definite state, and the Born Rule tells us the probability of finding a particular result. 
+Experimental Verification: The Born Rule is not just a theoretical concept; it has been experimentally verified through various quantum experiments, providing a framework for predicting measurement outcomes. 
+Example: Finding a Particle
+A common application is determining the probability of finding a particle at a specific position. 
+If the wave function describes the particle's state, the probability density for finding the particle at a given position is proportional to the square of the wave function's amplitude at that position.
+Significance
+Bridge to Reality: The Born Rule bridges the gap between the abstract mathematical description of a quantum system and the concrete, observable outcomes of measurements in the real world. 
+Foundation of Quantum Mechanics: It is a fundamental postulate of quantum mechanics, crucial for understanding and predicting the behavior of quantum systems and their interactions. 
+
+### Hilbert Space
 the mathematics of quantum states lives in Hilbert space, which is essentially a vector space (with inner products, orthogonality, linear combinations, etc.). Fermions and bosons just have different transformation properties in that vector space under exchange operations.
 * Higgs boson: scalar, not a gauge boson
 * Muons vs. Electrons: muons are heavier (~200x)
