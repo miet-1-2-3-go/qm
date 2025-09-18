@@ -80,3 +80,11 @@ Euler–Lagrange equations for fields.
 Energy-momentum tensor.
 
 Lorentz invariance in classical fields.
+
+
+Lagrangian & Hamiltonian mechanics (very relevant for QM/QFT).
+
+Maxwell’s equations & wave solutions (for EM force in QM/QFT).
+
+thermodynamics/stat mech basics
+quantum stat mech overview
