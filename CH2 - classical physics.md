@@ -176,6 +176,17 @@ $$
 \\frac{dA}{dt} = \\frac{1}{2}r^2\\dot{\\theta} = \\frac{L}{2m} = \\text{constant}
 $$
 
+Everyday examples of torque
+Opening a door
+With torque: You push on the door handle, which is far from the hinges. This creates a large torque that easily rotates the door on its hinges.
+Without torque: If you were to push on the door right at the hinge (where the distance from the pivot is zero), you would create no torque, and the door would not rotate, no matter how hard you pushed. 
+Using a wrench
+With torque: To loosen a stubborn bolt, you apply a large force to the end of a long wrench handle. The distance from the center of the bolt (the pivot) to your hand is the lever arm. The longer the lever arm, the more torque you can apply for the same amount of force.
+Changing torque: By using a longer wrench, you can generate more torque without applying more force, making it easier to turn the bolt. 
+Riding a bicycle
+With torque: As you pedal, you apply a downward force on the bicycle pedals, which are attached to the cranks. This force creates a torque around the sprocket, which is transmitted to the wheel through the chain, causing the wheel to rotate.
+Changing torque: A bicycle's gears are a system for varying torque. You can use a lower gear to apply a greater torque to climb a steep hill or a higher gear to apply less torque to move at a higher speed on flat ground. 
+
 #### 2. Conservation of Energy
 
 If the central force is also conservative, the total mechanical energy ($E$) of the system is conserved. A conservative force can be written as the negative gradient of a potential energy function, $V(r)$.
