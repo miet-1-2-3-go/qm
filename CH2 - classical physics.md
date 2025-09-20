@@ -46,8 +46,71 @@ A rocket launch: A rocket's engine expels hot gases downward at high velocity (a
 Jumping off a boat: When you jump from a small boat to a dock (action), the **boat moves away from the dock (reaction).** This is because your **force on the boat causes the boat to exert an equal and opposite force on you, propelling you forward.**
 
 ### Oscillators & waves (mass-spring, pendulum, wave equation).
+**What are Oscillations?**
+Oscillations are repetitive movements of a system about an equilibrium position, while waves are disturbances that transfer energy through a medium via these oscillations. The relationship is fundamental: oscillations create waves, and the individual particles in a medium oscillate as a wave passes through. 
 
-Central forces (Kepler problem → conservation laws).
+**What are Oscillators?**
+A simple harmonic oscillator (SHO) is a system where the restoring force is directly proportional to the displacement from equilibrium. This relationship produces a characteristic sinusoidal motion
+
+
+
+**Mass-spring System**
+A mass attached to a spring is a classic example of an SHO, where the restoring force comes from the spring obeying Hooke's Law. 
+*   **Restoring Force:**
+    $$F = -kx$$
+*   **Equation of Motion:**
+    $$-kx = m\frac{d^2x}{dt^2} \implies \frac{d^2x}{dt^2} + \frac{k}{m}x = 0$$
+*   **Angular Frequency ($\omega$):**
+    $$\omega = \sqrt{\frac{k}{m}}$$
+*   **Period ($T$) and Frequency ($f$):**
+    $$T = 2\pi\sqrt{\frac{m}{k}} \quad \text{and} \quad f = \frac{1}{T} = \frac{1}{2\pi}\sqrt{\frac{k}{m}}$$
+
+## Simple pendulum
+For small angular displacements ($\theta$), a simple pendulum behaves as a simple harmonic oscillator.
+
+*   **Equation of Motion (for small angles):**
+    $$\frac{d^2\theta}{dt^2} + \frac{g}{L}\theta = 0$$
+*   **Angular Frequency ($\omega$):**
+    $$\omega = \sqrt{\frac{g}{L}}$$
+*   **Period ($T$):**
+    $$T = 2\pi\sqrt{\frac{L}{g}}$$
+
+**Pendulum**
+a pendulum is a simple yet powerful example of an oscillator that demonstrates how a system with a restoring force can produce periodic, or oscillatory, motion. This oscillating motion can, in turn, be used to generate waves.
+
+Pendulums as oscillators
+The simple pendulum consists of a point mass (the bob) attached to a light, inextensible string of a fixed length and suspended from a pivot. 
+Restoring force: When the pendulum bob is displaced from its equilibrium position (hanging straight down), gravity creates a restoring force that pulls the bob back towards equilibrium.
+Simple harmonic motion (SHM): For small displacements (less than about 15°), this restoring force is directly proportional to the displacement. In this case, the pendulum's motion is a close approximation of simple harmonic motion, a type of oscillation that follows a predictable sinusoidal pattern.
+Energy conversion: A swinging pendulum demonstrates the conservation of energy. As it swings down, its gravitational potential energy is converted into kinetic energy, reaching maximum kinetic energy at the bottom of its swing. This kinetic energy is then converted back into potential energy as the pendulum swings up to its maximum height on the other side. 
+The link to waves
+While a single pendulum is an oscillator, a series of pendulums can illustrate wave phenomena. A "pendulum wave" machine uses several pendulums of slightly different lengths, and therefore slightly different oscillation periods. 
+Constructing a wave: When all the pendulums are started at the same time, their different periods cause them to gradually fall out of sync, creating the illusion of a complex wave pattern moving through the pendulums. The longest pendulums swing the slowest, while the shortest ones swing the fastest.
+Periodic repetition: Because each pendulum completes a different number of oscillations in a specific amount of time, they will eventually all align again, and the beautiful, complex wave pattern will repeat.
+Wave characteristics: This demonstration effectively illustrates fundamental wave characteristics, such as amplitude, wavelength, and frequency, through the visible, synchronized motion of individual oscillators. 
+In summary, the pendulum serves as a foundational mechanical example of an oscillator. By understanding the forces and energy conversions that govern its periodic motion, we gain insight into the principles of simple harmonic motion. Furthermore, by observing how multiple pendulums interact, we can visually grasp how simple oscillations can combine to create complex, periodic waves. 
+
+
+## The wave equation
+A mass attached to a spring is a classic example of a simple harmonic oscillator.
+A wave is a disturbance that carries energy through a medium. Oscillating particles within the medium transmit this energy from one point to another. The wave equation describes how this disturbance propagates. 
+
+Transverse wave on a string
+For a one-dimensional transverse wave, such as one traveling along a stretched string, the wave equation can be derived by applying Newton's second law to a small segment of the string. 
+Derivation: By considering the net vertical force on a small segment of string and using the small-angle approximation, the wave equation is:
+
+The one-dimensional transverse wave equation can be expressed as:
+$$\frac{\partial^2y}{\partial x^2} = \frac{1}{v^2}\frac{\partial^2y}{\partial t^2}$$
+
+*   The wave speed ($v$) on a string is given by:
+    $$v = \sqrt{\frac{T}{\mu}}$$
+*   A general solution for a sinusoidal wave is:
+    $$y(x,t) = A\sin(kx - \omega t + \phi)$$
+
+The key link between oscillators and waves is the motion of the particles in the medium. SHM within a wave: As a wave propagates, individual particles of the medium undergo simple harmonic motion. For a transverse wave on a string, each point on the string oscillates up and down, even though the wave itself moves horizontally.Wave velocity vs. particle velocity: It is crucial to distinguish between the velocity of the wave (\(v\)), which is the speed at which the disturbance propagates, and the velocity of the oscillating particles in the medium (\(v_{y}\)), which is transverse to the wave's motion. 
+
+
+### Central forces (Kepler problem → conservation laws).
 
 Lagrangian mechanics (principle of least action, generalized coordinates, Euler–Lagrange equations).
 
