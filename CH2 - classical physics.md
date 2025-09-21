@@ -65,6 +65,11 @@ A mass attached to a spring is a classic example of an SHO, where the restoring 
 *   **Period ($T$) and Frequency ($f$):**
     $$T = 2\pi\sqrt{\frac{m}{k}} \quad \text{and} \quad f = \frac{1}{T} = \frac{1}{2\pi}\sqrt{\frac{k}{m}}$$
 
+
+### Hooke's Law
+
+States that **if you apply a force to a spring, then the force stretches spring.** And if you don't stretch too much, **Hooke's law says that the amount of force you apply is proportional to the stretch.** So, that means that **if you apply twice the force, you get twice the stretch.**
+
 ## Simple pendulum
 For small angular displacements ($\theta$), a simple pendulum behaves as a simple harmonic oscillator.
 
@@ -238,6 +243,141 @@ where $k$ is the constant of proportionality ($F = k/r^2$). For gravity, $k = GM
 * **Kepler's 2nd Law (Law of Equal Areas):** A direct result of angular momentum conservation. Areal velocity is constant.
 * **Kepler's 3rd Law (Law of Periods):** $T^2 \\propto a^3$. Energy and angular momentum conservation allow this, but the inverse-square force law gives the exact proportionality.
 "
+
+Newton's laws of rotation describe how rotating bodies behave, analogous to his laws of linear motion. The rotational version of Newton's first law states that a body will maintain its state of rotational motion (rest or constant angular velocity) unless acted upon by a net external torque. Newton's second law for rotation states that the net torque (Στ) on a body is equal to the product of its moment of inertia (I) and its angular acceleration (α), expressed as Στ = Iα. Newton's third law for rotation states that for every action torque, there is an equal and opposite reaction torque. 
+Here are the rotational forms of Newton's laws:
+Newton's First Law for Rotation
+Concept: A body in a state of rotational rest will remain at rest, and a body in a state of rotational motion will continue to rotate with a constant angular velocity, unless acted upon by a net external torque. 
+In essence: Just like in linear motion, an object's tendency to stay at rest or in uniform motion continues without an external force, but in rotational motion, it is a net external torque that causes a change in rotation. 
+Newton's Second Law for Rotation
+Concept: This law relates the net torque applied to an object to its resulting angular acceleration and its rotational inertia. 
+Formula: Στ = Iα 
+Στ (Sigma Tau): The net torque acting on the object. Torque is the rotational equivalent of a force and is a measure of how much an object is likely to rotate. 
+I: The moment of inertia. This is the rotational equivalent of mass and indicates an object's resistance to changes in its rotational motion. 
+α (alpha): The angular acceleration. This is the rate of change of the object's angular velocity. 
+Newton's Third Law for Rotation 
+Concept: For every torque exerted by one object on another, there is an equal and opposite torque exerted by the second object on the first.
+In essence: When object A applies a torque on object B, object B will apply an equal and opposite torque on object A.
+
+### Noether's Theorem
+Noether's theorem establishes a fundamental connection between **the symmetries of a physical system and its conserved quantities.** Put simply, **for every continuous symmetry of a system's action, there is a corresponding conservation law.**
+
+**The theorem is typically formulated in the context of Lagrangian mechanics and applies to continuous, differentiable symmetries of a system's "action".**
+
+### What is the action?
+The action $$(\(S\))$$ is a **quantity calculated for a given path, or trajectory, that a system can take from an initial state to a final state over a period of time. It is defined as the integral of the Lagrangian $$(\(L\))$$ over time.The Lagrangian is the difference between the system's kinetic energy $$(\(T\))$$ and its potential energy $$(\(V\))$$, so $$\(L=T-V\)$$. In simpler terms, you can think of the action as a value assigned to an entire path of a particle's motion. For a given starting point and a given ending point, there is an infinite number of possible paths a particle could take. The principle of least action says that the path it actually takes is the one for which the action is the smallest possible value. 
+
+Imagine you have a hiking map with elevation data, and you want to find the easiest path from one point to another. You can define the "effort" of your hike as the total uphill distance minus the total downhill distance.
+Action: Your effort for a given path.
+Lagrangian: The difference between your "kinetic energy" (walking forward) and your "potential energy" (the altitude).
+Principle of least action: The path that requires the least overall effort is the one you would naturally gravitate toward. 
+
+**Core concepts**
+* **Symmetry:** **A symmetry is a transformation that leaves a system's action unchanged. In physics, the action is a quantity calculated from a system's Lagrangian (the difference between kinetic and potential energy), and the system's physical path is the one that minimizes this action. (When a physical path is said to minimize an action, it refers to the principle of least action, a foundational concept in physics. The principle states that the actual path a physical system takes between two points in time is the one that minimizes a specific quantity called the "action". )**
+* **Continuous symmetry:** This is a transformation that can be varied smoothly by an infinitesimal amount. **It is the continuous nature of the symmetry that distinguishes it from discrete symmetries, such as parity (mirror-image) transformations.**
+* **Conservation law:** A conservation law states that a **particular measurable property of an isolated physical system, such as energy or momentum, does not change over time.**
+* **Action principle:** In **Lagrangian mechanics, a system's physical trajectory is the one that follows the path of "least action". For a symmetry to exist, a transformation must leave this action invariant.**
+Key examples
+Noether's theorem provides a deep understanding of why certain physical properties are conserved. The three most famous examples correspond to basic symmetries of space and time: 
+Conserved Quantity 	Corresponding Continuous Symmetry	Explanation
+Conservation of Energy	Time-translation invariance	If the laws of physics are the same today as they are tomorrow, then the total energy of a closed system is conserved. The system's action does not change if it is shifted forward or backward in time.
+Conservation of Linear Momentum	Spatial-translation invariance	If the laws of physics are the same here as they are somewhere else, then the total linear momentum of a closed system is conserved. The action is invariant under a uniform shift in position.
+Conservation of Angular Momentum	Rotational invariance	If the laws of physics are the same no matter how you orient your system, then the total angular momentum of a closed system is conserved. The action is invariant under rotation.
+Significance and implications
+Beyond classical mechanics: While first proven for classical systems, the theorem applies broadly across many fields of physics, including quantum mechanics, special relativity, and quantum field theory. In quantum field theory, it links global continuous symmetries to conserved "currents".
+Predictive power: The theorem allows physicists to predict conserved quantities based on the known symmetries of a system, without needing to know the specific details of its dynamics. Conversely, if a system is found to conserve a quantity, it implies the existence of an underlying symmetry.
+Structure of physical laws: Instead of being disconnected facts, conservation laws are revealed to be a direct consequence of the symmetries inherent in the fundamental laws of nature. This shifts the focus from studying forces and interactions to understanding the symmetries that govern them. For instance, the theory of general relativity does not possess a time-translation symmetry in curved space-time, which is why energy is not always a globally conserved quantity in that context. 
+
+# Examples of Continuous Symmetries and Action Principles
+
+---
+
+### 1. Time-translation invariance → Conservation of energy  
+
+**Continuous symmetry:**  
+The laws of physics are the same today as they will be tomorrow. The Lagrangian of a system does not explicitly depend on time. If you calculate the action for a path today, it will be identical to the action for the same path translated to a different time.  
+
+**Action principle:**  
+For a system like a ball in a gravitational field, the Lagrangian is  
+
+$$
+L = \tfrac{1}{2} m v^{2} - m g h
+$$  
+
+The action is  
+
+$$
+S = \int \Big(\tfrac{1}{2} m v^{2} - m g h\Big) \, dt
+$$  
+
+If this action is invariant under time shifts  
+$$t \;\to\; t + \delta t,$$  
+the principle of least action implies that the total energy  
+
+$$
+E = \tfrac{1}{2} m v^{2} + m g h
+$$  
+
+of the ball is conserved.  
+
+---
+
+### 2. Spatial-translation invariance → Conservation of linear momentum  
+
+**Continuous symmetry:**  
+The laws of physics are the same everywhere in space. The Lagrangian of a system does not depend on the absolute position of the system (e.g., \(x, y, z\)) but only on the relative positions and velocities.  
+
+**Action principle:**  
+For a system of free particles, the Lagrangian depends on velocities \(\dot{x}\) but not on absolute positions \(x\). The action  
+
+$$
+S = \int L(x, \dot{x}, t) \, dt
+$$  
+
+is unchanged if you shift the entire system by a constant vector  
+
+$$
+\vec{x} \;\to\; \vec{x} + \vec{a}.
+$$  
+
+This symmetry, via the action principle, leads to conservation of the total linear momentum.  
+
+---
+
+### 3. Rotational invariance → Conservation of angular momentum  
+
+**Continuous symmetry:**  
+The laws of physics are the same regardless of orientation in space. The Lagrangian is invariant under continuous rotations about any axis.  
+
+**Action principle:**  
+For a central force problem (e.g., a planet orbiting the sun), the Lagrangian depends only on the distance between the bodies, which is unaffected by a global rotation. The action principle, applied to such a Lagrangian, guarantees conservation of total angular momentum.  
+
+---
+
+### 4. U(1) gauge symmetry → Conservation of electric charge  
+
+**Continuous symmetry:**  
+In quantum field theory, the electromagnetic Lagrangian is symmetric under a local U(1) gauge transformation (the transformation can differ at each point in spacetime).  
+
+**Action principle:**  
+The electromagnetic action must be invariant under this U(1) transformation. Applying the principle of least action to the corresponding Lagrangian density produces Maxwell’s equations and demonstrates conservation of electric charge.  
+
+---
+
+## The General Idea  
+
+In all these cases, the process linking symmetry to conservation via the action principle follows the same flow:
+
+1. Start with a physical assumption about the universe (e.g., time doesn’t matter, location doesn’t matter).  
+2. Translate the assumption into a mathematical symmetry of the Lagrangian and action.  
+3. Use the calculus of variations (the mathematical tool for the action principle) to show that this symmetry leads to a specific conserved quantity.  
+
+Lagrangian mechanics (principle of least action, generalized coordinates, Euler–Lagrange equations). Hamiltonian mechanics (phase space, canonical transformations, Poisson brackets).
+
+30 mins: Classical Electromagnetism overview Statistical Mechanics / Thermodynamics (lean version) Laws of thermodynamics (just principles, no Carnot engine details).
+
+30mins review, quiz
+
 
 
 
